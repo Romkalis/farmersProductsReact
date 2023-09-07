@@ -1,0 +1,19 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.logo-image {
+  width: 44px;
+  height: 44px;
+}
+
+.logo-text {
+  color: #333;
+  font-family: Inter;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 115%; /* 32.2px */
+}

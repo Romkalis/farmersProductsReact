@@ -1,0 +1,16 @@
+.title {
+  font-family: Inter;
+  font-style: normal;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 115%; /* 50.6px */
+}
+
+.title__big {
+  font-size: 44px;
+}
+
+.title__small {
+  font-size: 24px;
+  line-height: 130%;
+}
